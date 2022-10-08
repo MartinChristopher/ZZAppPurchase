@@ -1,0 +1,16 @@
+PODS:
+  - ZZAppPurchase (0.0.1)
+
+DEPENDENCIES:
+  - ZZAppPurchase (from `../`)
+
+EXTERNAL SOURCES:
+  ZZAppPurchase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZAppPurchase: 535a64b22b9e9200a1b6bfd176d21dc07c4c84d5
+
+PODFILE CHECKSUM: 1b21340526894fab5f3c2cdadccb010a98a8da8a
+
+COCOAPODS: 1.11.3
